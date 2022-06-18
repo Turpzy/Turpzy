@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Turpzy
+- 👋 Hi, I’m Temitope Joseph @Turpzy
 - 👀 I’m interested in Web development and game development
 - 🌱 I’m currently learning HTML, CSS, and JAVA SCRIPT
 - 💞️ I’m looking to collaborate on web and game development Not Yet working on a
