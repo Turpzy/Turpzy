@@ -1,8 +1,9 @@
-- 👋 Hi, I’m Temitope Joseph @Turpzy
-- 👀 I’m interested in Web development and game development
-- 🌱 I’m currently learning HTML, CSS, and JAVA SCRIPT
-- 💞️ I’m looking to collaborate on web and game development Not Yet working on a
-- 📫 You can reach me on whatsapp +2347064368492 and topejoseph07@gmail.com
+👀 I’m passionate about web design and game design.
+🎨 Skilled in using professional tools such as Adobe Photoshop, Illustrator, Microsoft tools, Affinity, and Figma.
+🌱 Currently learning HTML, CSS, and JavaScript to enhance my development skills.
+💼 Working as a Process Improvement Officer at a financial institution.
+💞️ Looking to collaborate on web and game development projects.
+📫 Reach me on WhatsApp at +2347064368492 or via email at topejoseph07@gmail.com.
 
 <!---
 Turpzy/Turpzy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
